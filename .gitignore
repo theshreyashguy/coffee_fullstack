@@ -7,6 +7,7 @@ Coffee_react/
 # OSX
 #
 Coffee_react_rr/.DS_Store
+Coffee_react_rr/.git
 
 # Xcode
 #
@@ -87,4 +88,5 @@ React-Native-Chat-App-Frontend-master/
 server/
 temp/
 test/
+test/.git
 try/
